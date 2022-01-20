@@ -1,0 +1,37 @@
+{
+    "beam_diameter": "",
+    "cleanup_duration": 0.0,
+    "commit": "ba4e57d1774d6ded396565a80b0372ce57df5e4d",
+    "cryo_temperature": 0.0,
+    "extract_device": "NMGRL Furnace",
+    "extract_duration": 0.0,
+    "extract_units": "",
+    "extract_value": 0.0,
+    "extraction_context": {},
+    "grain_polygons": [],
+    "light_value": 0,
+    "load_holder": "---",
+    "load_name": "F0022",
+    "measured_response": "xdPDTgAAAAAAAN85AADQQfw6AEAAANBBbiSAQAAA0EFqJMBAAADQQRcWAEEAANBBORsgQQAA0EGtG0BBAADQQQ==",
+    "pattern": "",
+    "pid": "HO,15;XP,300;TI,25;TD,3;LB,708;HB,100",
+    "positions": [
+        {
+            "is_degas": false,
+            "position": null,
+            "x": null,
+            "y": null,
+            "z": null
+        }
+    ],
+    "post_cleanup_duration": 0.0,
+    "pre_cleanup_duration": 0.0,
+    "ramp_duration": 0.0,
+    "ramp_rate": 0.0,
+    "requested_output": "xdPDTgAAAAAAAN85AAAAAPw6AEAAAAAAbiSAQAAAkEFqJMBAAACQQRcWAEEAAAAAORsgQQAAAACtG0BBAAAAAA==",
+    "setpoint_stream": "xdPDTgAAAAAAAN85AAAAAPw6AEAAAAAAbiSAQACAIkRqJMBAAIAiRBcWAEEAAJZDORsgQQAAlkOtG0BBAACWQw==",
+    "snapshots": [],
+    "tray": "---",
+    "videos": [],
+    "weight": 0
+}
