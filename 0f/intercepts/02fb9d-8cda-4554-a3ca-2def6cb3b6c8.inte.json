@@ -1,6 +1,6 @@
 {
     "Ar36": {
-        "error": 6.805805402233902e-05,
+        "error": 6.8058054022339e-05,
         "error_type": "SEM",
         "filter_outliers_dict": {
             "filter_outliers": true,
@@ -19,10 +19,10 @@
         ],
         "reviewed": true,
         "user_excluded": [],
-        "value": 0.0008402007956435319
+        "value": 0.0008402007956435297
     },
     "Ar37": {
-        "error": 0.016025385513978797,
+        "error": 0.016025385513978793,
         "error_type": "SEM",
         "filter_outliers_dict": {
             "filter_outliers": true,
@@ -38,10 +38,10 @@
         "outlier_excluded": [],
         "reviewed": true,
         "user_excluded": [],
-        "value": 0.012292636919677826
+        "value": 0.01229263691967782
     },
     "Ar38": {
-        "error": 0.0056832329489132135,
+        "error": 0.005683232948913217,
         "error_type": "SEM",
         "filter_outliers_dict": {
             "filter_outliers": true,
@@ -59,10 +59,10 @@
         ],
         "reviewed": true,
         "user_excluded": [],
-        "value": -0.05869483105873686
+        "value": -0.058694831058736865
     },
     "Ar39": {
-        "error": 0.00809822905804782,
+        "error": 0.008098229058047817,
         "error_type": "SEM",
         "filter_outliers_dict": {
             "filter_outliers": true,
@@ -80,10 +80,10 @@
         ],
         "reviewed": true,
         "user_excluded": [],
-        "value": 0.041282102543287735
+        "value": 0.04128210254328776
     },
     "Ar40": {
-        "error": 0.029723984047244956,
+        "error": 0.02972398404724581,
         "error_type": "SEM",
         "filter_outliers_dict": {
             "filter_outliers": true,
@@ -102,6 +102,6 @@
         ],
         "reviewed": true,
         "user_excluded": [],
-        "value": 0.17430499699742638
+        "value": 0.1743049969974193
     }
 }
